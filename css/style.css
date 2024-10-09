@@ -254,6 +254,7 @@ img{
     border-radius: 4px;
     padding: 6px 22px;
     background: #f5f4fa;
+    cursor: pointer;
 }
 .project-list {
     display: flex;
