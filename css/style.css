@@ -253,6 +253,7 @@ img{
     height: 38px;
     border-radius: 4px;
     padding: 6px 22px;
+    background: #f5f4fa;
 }
 .project-list {
     display: flex;
